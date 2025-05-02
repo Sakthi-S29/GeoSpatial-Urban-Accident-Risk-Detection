@@ -1,0 +1,11 @@
+pandas
+seaborn
+numpy
+matplotlib
+scikit-learn
+shap
+joblib
+folium
+tensorflow
+
+-e .
